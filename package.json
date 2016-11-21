@@ -1,0 +1,12 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "twiiter api for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lsong <song940@gmail.com>",
+  "license": "MIT",
+  "repository": "git@github.com:song940/node-twitter.git"
+}
