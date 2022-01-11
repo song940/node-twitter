@@ -8,5 +8,8 @@
   },
   "author": "Lsong <song940@gmail.com>",
   "license": "MIT",
-  "repository": "git@github.com:song940/node-twitter.git"
+  "repository": "git@github.com:song940/node-twitter.git",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0"
+  }
 }
